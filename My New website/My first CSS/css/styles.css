@@ -1,0 +1,17 @@
+.dream{
+    background-color: cadetblue;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+#second{
+    background-color: bisque;
+}
+#mimi{
+    color: blue;
+    border: 5px solid red;
+    margin: 5px;
+    padding: 5px;
+}

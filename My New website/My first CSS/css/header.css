@@ -1,0 +1,14 @@
+.opps{
+    border: 10px solid darkolivegreen;
+    background-color: cornflowerblue;
+    margin: 10px;
+    box-shadow: -10px 10px darkgrey;
+}
+
+.header{
+    height: 100px;
+    background-color: aquamarine;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-image: url('home\ ico\ 1.png');
+}
